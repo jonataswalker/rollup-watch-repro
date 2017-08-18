@@ -9,5 +9,5 @@ npm run build
 ```
 
 ### Step 2:
-- Make some modification
-- The error is in your console
+- Make some modification on `client/rollup.config.js`
+- Not re-bundling
